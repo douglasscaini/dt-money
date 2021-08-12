@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./.github/logo.png" width=50px"/></h1>
 
-<h3 align="center">dt momey</h3>
+<h3 align="center">dt money</h3>
 
 <p align="center">“O que sabemos é uma gota. O que ignoramos é um oceano.”</p>
 
