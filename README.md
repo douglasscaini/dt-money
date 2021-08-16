@@ -13,7 +13,7 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
-> #
+> O `dt money` é uma aplicação para controlar entradas e saídas da sua bela e suada grana.
 
 <br />
 <table>
