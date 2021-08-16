@@ -18,10 +18,10 @@
 <br />
 <table>
   <tr>
-    <td colspan="1">Desktop</td>
+    <td colspan="1">Web</td>
   </tr>
   <tr>
-    <td><img src="./.github/#" width=1000px /></td></td>
+    <td><img src="./.github/money.gif" width=1000px /></td></td>
   </tr>
 </table>
 
@@ -37,7 +37,12 @@ $ yarn start
 
 ## :triangular_flag_on_post: Desafio <a name="challenge"></a>
 
-> #
+> Aprender e fixar conceitos como:
+>
+> - Utilização de Styled Components.
+> - Utilização do `create-react-app`.
+> - Componentes, Estados e Propriedades.
+> - Contexto e Hooks.
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
